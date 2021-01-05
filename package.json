@@ -12,7 +12,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "mini-ui": "^0.0.1-alpha",
     "mint-ui": "^2.2.13",
     "qs": "^6.7.0",
